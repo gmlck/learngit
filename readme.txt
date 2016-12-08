@@ -4,3 +4,6 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 new master
 new dev
+doing dev
+doing dev2
+dev complete
